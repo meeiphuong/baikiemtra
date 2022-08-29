@@ -1,0 +1,165 @@
+body{
+    width: 100%;
+   position: relative;
+   
+}
+*{
+    margin: 0; padding: 0;box-sizing: border-box;
+}
+.container{
+background-color: #f3f3f3;
+width: 100%;
+height: auto;
+}
+
+.all{
+    margin: auto;
+    width: 1000px;
+    height: 900px;
+    background-color: white;
+}
+.text_center{
+text-align: center;
+font-size: 22px;
+color: #7D0203;
+height: 50px;
+font-style: italic;
+width: 100%;
+font-weight: 600;
+font-family: 'Roboto', sans-serif;
+padding-top: 17px;
+
+}
+.image_big{
+    width: 1000px;
+    height: 900px;
+    margin: auto;
+   text-align: center;
+}
+.middle{
+    width: 1000px;
+    height: 580px;
+  
+   
+}
+.content{
+    background-image: url(1.png);
+   
+     margin: auto;
+    display: flex;
+    width: 950px;
+    height: 550px;
+   
+}
+.left{
+    width: 50%;
+    height: 100%;
+}
+.right{
+    width: 50%;
+    height: 100%;
+}
+.image{
+    width: 950px;
+    height: 580px;
+   
+}
+.green{
+    background-color: #7CA899;
+    width: 400px;
+    height: 450px;
+    position: absolute;
+    top: 84px;
+    left: 282px;
+    opacity: 0.8;
+}
+.img{
+    width: 300px;
+    height: 550px;
+    position: absolute;
+    top: 120px;
+    left: 350px;
+    box-shadow: 9px 8px 7px #80808073;
+}
+.top{
+    width: 400px;
+  
+    margin-top: 50px ;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.text1{
+    line-height: 48px;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #5D5D5D;
+}
+h3{
+    line-height: 33px;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #5D5D5D;
+    margin-bottom: 20px;
+}
+svg.svg-inline--fa.fa-baseball-bat-ball {
+    font-size: 50px;
+
+    margin-bottom: 20px;
+
+    color: #96C347;
+}
+.text2{
+    line-height: 20px;
+    font-size: 13px;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    color: #808080;
+}
+
+._1{
+    display: flex;
+    width: 250px;
+    height: 70px;
+    margin-bottom: 30px;
+  
+}
+.icon{
+    color: #96C347;
+    font-size: 40px;
+    border-radius: 50%;
+    border: 2px dashed #96C347;
+    width: 80px;
+    height: 80px;
+    padding: 18px 13px;
+ 
+   
+}
+.nd{
+margin-top: 10px;
+    margin-left: 10px;
+color: #96C347;
+font-family: 'Roboto', sans-serif;
+
+
+}
+.text3{
+    font-size: 13px;
+     line-height: 29px;
+
+     font-family: 'Roboto', sans-serif;
+}
+.text4{
+    font-size: 17px;
+    font-weight: 600;
+}
+.bottom{
+    width: 450px;
+    display: flex;
+    justify-content: space-between;
+ 
+}
+.bottom_right{
+
+}
